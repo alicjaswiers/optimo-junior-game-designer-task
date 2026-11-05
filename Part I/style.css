@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+    background-color: #fff;
+}
+
+.top-bar {
+    height: 45px;
+    background-color: #988523;
+    border: 2px solid #000;
+    border-bottom: none;
+}
+
+.board {
+    flex: 1;
+    background-color: #107e15;
+    border: 2px solid #000;
+    position: relative;
+}
+
+.diamonds {
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+
+.diamond {
+    width: 55px;
+    height: 55px;
+    background-color: #ff0000;
+    border: 2px solid #000;
+    transform: rotate(45deg);
+    position: absolute;
+}
+
+.d1 { 
+    top: 45px; 
+    left: -15px; 
+} 
+.d2 { 
+    top: 0; 
+    left: 45px;  
+}
+
+.dynamic-shapes {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.lines {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.line {
+    width: 45px;
+    height: 12px;
+    background-color: #0000ff;
+    border: 2px solid #000;
+}
+
+.circle {
+    width: 45px;
+    height: 45px;
+    background-color: #008080;
+    border: 2px solid #000;
+    border-radius: 50%;
+}
+
+.abc-panel {
+    position: absolute;
+    border: 2px solid #000;
+    text-align: center;
+    padding-top: 15px;
+    font-family: sans-serif;
+    color: #000;
+}
