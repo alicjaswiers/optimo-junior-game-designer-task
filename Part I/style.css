@@ -88,3 +88,46 @@ body {
     font-family: sans-serif;
     color: #000;
 }
+
+@media (max-width: 582px) {
+    .dynamic-shapes {
+        top: 210px;
+        left: 20px;
+    }
+    .abc-panel {
+        background-color: #0000ff;
+        top: 280px;
+        bottom: 30px;
+        left: 45px;
+        right: 45px;
+    }
+}
+
+@media (min-width: 583px) and (max-width: 900px) {
+    .dynamic-shapes {
+        bottom: 40px;
+        left: 30px;
+    }
+    .abc-panel {
+        background-color: #c43939; 
+        top: 40px;
+        bottom: 40px;
+        right: 30px;
+        width: 120px;
+    }
+}
+
+@media (min-width: 901px) {
+    .dynamic-shapes {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%); 
+    }
+    .abc-panel {
+        background-color: #ffffff; 
+        top: 40px;
+        bottom: 40px;
+        right: 40px;
+        width: 160px;
+    }
+}
