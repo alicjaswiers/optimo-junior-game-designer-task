@@ -1,0 +1,33 @@
+Room Renovation Plan
+
+Goal:
+- Transform boring room into a cozy space within 72h.
+
+Materials:
+- Masking tape,
+- Foil,
+- White paint,
+- Wooden rack,
+- Decor items.
+
+
+Steps:
+	Day 1 - Prep (Estimated: 2h)
+1. Move small furniture to the corridor.
+2. Cover large furniture with foil.
+3. Tape over sockets and switches.
+
+	Day 2 - Main Loop (Estimated: 5h)
+4. Paint the walls.
+5. Clean unprotected areas.
+6. Wash brushes, take out empty paint cans.
+7. While drying, assemble the new rack in the corridor.
+Risk: Paints dries too slowly. Mitigation: Maximize room ventilation.
+
+	Day 3 - Polish (Estimated: 3h)
+8. Remove all tape and foil.
+9. Clean up any remaining stains.
+10. Bring in the rack.
+11. Place flowers on the rack.
+12. Arrange decor, hang curtains.
+Check: Verify rack stability.
